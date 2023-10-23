@@ -2,7 +2,7 @@
   "name": "fca-rahaman-api",
   "version": "1.5.3",
   "description": "Facebook-chat-api protect and deploy by Kanzu and HZI Team",
-  "main": "Index.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
