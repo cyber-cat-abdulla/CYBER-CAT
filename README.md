@@ -1,4 +1,3 @@
-
 [![Socket Badge](https://socket.dev/api/badge/npm/package/fca-horizon-remastered)](https://socket.dev/npm/package/fca-horizon-remastered)
 
 ## Important !
