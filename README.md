@@ -3,9 +3,6 @@
 
 ## Important !
 
-<img width="517" alt="Reason" src="https://i.imgur.com/rD3ujmL.png">
-This project is no longer being developed because the project owner lacks high security capabilities, leading to potential security vulnerabilities. Therefore, the project will be permanently suspended.
-
 Special Thanks: 
 ![image](https://github.com/KanzuXHorizon/Fca-Horizon-Remastered/assets/125113101/0a455054-b7f4-499d-b4b6-c91fd0569ce4)
 
@@ -13,7 +10,7 @@ This package require NodeJS 14.17.0 to work properly.
 
 ## Notification !
 
-+ We will have Example Video on Channel "Nguyễn Thái Hảo Official"
++ We will have Example Video on Channel "Abdulla Tech 49"
 
 Original Project(Deprecated): https://github.com/Schmavery/facebook-chat-api
 
@@ -38,11 +35,11 @@ Lưu Ý ! Nếu Bạn Muốn Sài Api Này Hãy Xem Document Tại [Đây Nè](h
 
 Nếu Bạn Muốn Sử Dụng, Hãy Tải Nó Bằng Cách:
 ```bash
-npm i fca-horizon-remastered
+npm i fca-abdullah-api
 ```
 or
 ```bash
-npm install fca-horizon-remastered
+npm install fca-abdullah-api
 ```
 
 Nó Sẽ Tải Vô node_modules (Lib Của Bạn) - Lưu Ý Replit Sẽ Không Hiện Đâu Mà Tìm 😪
@@ -51,11 +48,11 @@ Nó Sẽ Tải Vô node_modules (Lib Của Bạn) - Lưu Ý Replit Sẽ Không H
 
 Nếu Bạn Muốn Sử Dụng Phiên Bản Mới Nhất Hay Cập Nhật Thì Hãy Vô Terminal Hoặc Command Promt Nhập :
 ```bash
-npm install fca-horizon-remastered@latest
+npm install fca-abdullah-api@latest
 ```
 Hoặc
 ```bash
-npm i fca-horizon-remastered@latest
+npm i fca-abdullah@latest
 ```
 
 ## Nếu Bạn Muốn Test Api 
