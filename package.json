@@ -1,20 +1,20 @@
 {
-  "name": "fca-rahaman-api",
+  "name": "fca-abdullah-api",
   "version": "1.5.3",
-  "description": "Facebook-chat-api protect and deploy by Kanzu and HZI Team",
+  "description": "Facebook-chat-api remake by one man Abdulla Tech 49",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "Avery, David, Maude, Benjamin, UIRI, KanzuWakazaki",
+  "author": "Abdullah, David, Maude, Benjamin, UIRI, KanzuWakazaki",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KanzuXHorizon/Fca-Horizon-Remastered/issues"
+    "url": "https://github.com/cyber-cat-abdulla/fca-abdullah-api/issues"
   },
-  "homepage": "https://github.com/KanzuXHorizon/Fca-Horizon-Remastered#readme",
+  "homepage": "https://github.com/cyber-cat-abdulla/fca-abdullah-api#readme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/KanzuXHorizon/Fca-Horizon-Remastered.git"
+    "url": "git://github.com/cyber-cat-abdulla/fca-abdullah-api.git"
   },
   "dependencies": {
     "aes-js": "latest",
@@ -84,7 +84,7 @@
     }
   },
   "keywords": [
-    "Fca horizon",
+    "Fca abdullah",
     "fca-horizon-remastered",
     "horizon fca",
     "horizon"
