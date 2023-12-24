@@ -1,4 +1,4 @@
-[![Socket Badge](https://socket.dev/api/badge/npm/package/fca-abdullah-api)](https://socket.dev/npm/package/fca-abdullah-api)
+[![Socket Badge](https://socket.dev/api/badge/npm/package/fca-abdullah-api)](https://socket.dev/npm/package/cyber-cat)
 
 ## Important !
 
@@ -12,10 +12,6 @@ This package require NodeJS 14.17.0 to work properly.
 + We will have Example Video on Channel "Abdulla Tech 49"
 
 Original Project(Deprecated): https://github.com/Schmavery/facebook-chat-api
-
-Chúc các bạn một ngày tốt lành!, cảm ơn vì đã sài Sản phẩm của HZI, thân ái
-
-KANZUWAKAZAKI(15/04/2023)
 
 ## Support For : 
 
