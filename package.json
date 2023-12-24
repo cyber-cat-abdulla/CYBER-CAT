@@ -1,5 +1,5 @@
 {
-  "name": "fca-abdullah-api",
+  "name": "cyber-cat",
   "version": "1.5.3",
   "description": "Facebook-chat-api remake by one man Abdulla Tech 49",
   "main": "index.js",
@@ -9,12 +9,12 @@
   "author": "Abdullah, David, Maude, Benjamin, UIRI, KanzuWakazaki",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cyber-cat-abdulla/fca-abdullah-api/issues"
+    "url": "https://github.com/cyber-cat-abdulla/cyber-cat/issues"
   },
-  "homepage": "https://github.com/cyber-cat-abdulla/fca-abdullah-api#readme",
+  "homepage": "https://github.com/cyber-cat-abdulla/cyber-cat#readme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cyber-cat-abdulla/fca-abdullah-api.git"
+    "url": "git://github.com/cyber-cat-abdulla/cyber-cat.git"
   },
   "dependencies": {
     "aes-js": "latest",
